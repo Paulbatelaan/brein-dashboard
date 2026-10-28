@@ -1,0 +1,9 @@
+{
+  "id": "brein-dashboard",
+  "name": "Brein dashboard",
+  "version": "0.1.0",
+  "minAppVersion": "1.8.0",
+  "description": "Overzichten van het tweede brein op één scherm, met afvinken en status.",
+  "author": "Paul",
+  "isDesktopOnly": false
+}
